@@ -28,7 +28,7 @@
 
 - Contact me **jannisar187@gmail.com**
 
-- 📄 Know about my experiences [[View My Resume]([./Jan_Nasir_Resume.pdf)]([View My Resume](./Jan_Nasir_Resume.pdf)](https://github.com/123janay/123janay/blob/main/Jan_Nisar_Resume.pdf))
+- 📄 Know about my experiences (./Jan_Nasir_Resume.pdf)](https://github.com/123janay/123janay/blob/main/Jan_Nisar_Resume.pdf))
 
 - ⚡ Fun fact **I think I am curious**
 
